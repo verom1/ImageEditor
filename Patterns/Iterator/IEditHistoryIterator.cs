@@ -1,6 +1,6 @@
 using ImageEditorApp.Models;
 
-namespace ImageEditorApp.Iterators
+namespace ImageEditorApp.Patterns.Iterator
 {
     public interface IEditHistoryIterator
     {

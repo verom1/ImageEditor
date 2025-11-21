@@ -59,3 +59,11 @@ C:\Users\Дима\Desktop\КPI\3kurs\TRPZ\TRPZ labs\ImageEditorApp\obj\Debug\net
 C:\Users\Дима\Desktop\КPI\3kurs\TRPZ\TRPZ labs\ImageEditorApp\obj\Debug\net8.0-windows\ImageEditorApp.genruntimeconfig.cache
 C:\Users\Дима\Desktop\КPI\3kurs\TRPZ\TRPZ labs\ImageEditorApp\obj\Debug\net8.0-windows\ref\ImageEditorApp.dll
 c:\Users\Дима\Desktop\КPI\3kurs\TRPZ\TRPZ labs\ImageEditorApp\obj\Debug\net8.0-windows\ImageEditorApp.sourcelink.json
+c:\Users\Дима\Desktop\КPI\3kurs\TRPZ\TRPZ labs\ImageEditorApp\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+c:\Users\Дима\Desktop\КPI\3kurs\TRPZ\TRPZ labs\ImageEditorApp\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+c:\Users\Дима\Desktop\КPI\3kurs\TRPZ\TRPZ labs\ImageEditorApp\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+c:\Users\Дима\Desktop\КPI\3kurs\TRPZ\TRPZ labs\ImageEditorApp\bin\Debug\net8.0-windows\System.Private.Windows.GdiPlus.dll
+c:\Users\Дима\Desktop\КPI\3kurs\TRPZ\TRPZ labs\ImageEditorApp\bin\Debug\net8.0-windows\System.Reactive.dll
+c:\Users\Дима\Desktop\КPI\3kurs\TRPZ\TRPZ labs\ImageEditorApp\bin\Debug\net8.0-windows\System.Reactive.Windows.Forms.dll
+c:\Users\Дима\Desktop\КPI\3kurs\TRPZ\TRPZ labs\ImageEditorApp\bin\Debug\net8.0-windows\System.Windows.Forms.Ribbon35.dll
+c:\Users\Дима\Desktop\КPI\3kurs\TRPZ\TRPZ labs\ImageEditorApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll

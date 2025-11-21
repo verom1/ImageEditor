@@ -1,20 +1,23 @@
-using System.Collections.Generic;
+using System.Drawing;
+using ImageEditorApp.Patterns.Iterator;
 using ImageEditorApp.Models;
+using System.Collections.Generic;
 
 namespace ImageEditorApp.Services
 {
     public class EditingService
     {
-        private List<EditHistory> editHistories = new List<EditHistory>();
+        private Bitmap _current;
+        private readonly EditHistoryQueue _historyQueue = new EditHistoryQueue();
 
-        public void ApplyEdit(EditHistory edit)
+        public Bitmap GetCurrentBitmap() => _current;
+        public void SetCurrentBitmap(Bitmap bmp) { _current = bmp; }
+
+        public void AddHistory(string desc)
         {
-            editHistories.Add(edit);
+            _historyQueue.Add(new EditHistory { Description = desc });
         }
 
-        public IEditHistoryIterator GetHistoryIterator()
-        {
-            return new EditHistoryIterator(editHistories);
-        }
+        public EditHistoryQueue GetHistoryQueue() => _historyQueue;
     }
 }

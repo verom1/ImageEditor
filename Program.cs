@@ -1,9 +1,5 @@
 using System;
 using System.Windows.Forms;
-using ImageEditorApp.Data;
-using ImageEditorApp.Repositories;
-using System;
-using System.Windows.Forms;
 using ImageEditorApp.Forms;
 
 namespace ImageEditorApp
@@ -15,7 +11,7 @@ namespace ImageEditorApp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new EditForm());
+            Application.Run(new MainForm());
         }
     }
 }
